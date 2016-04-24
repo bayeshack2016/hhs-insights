@@ -1,5 +1,12 @@
 # hhs-insights
- TBD
+
+Vision: Our goverment has wealth of data available on HHS. Our vision is to utilize the available information and make meaningful analysis out of it. For example: By joining the the data sets of doctors and provider information we can get more insight on why a particular area has more frauds. As more efforts are being made to standarize data like doctor ratings we can further leverage and allow people to make a more informed decision about insurance providers.
+
+Goal: Our goal is to allow government to make use of the available data to solve problems on resource management, budgeting and better planning. For example: This can help in population lifestyle equitability, human migration, urban planning and even more.
+
+Problem: Determine availability of providers and quality of doctors. We solve this by combining the datasets and querying for "NPI Deactivation Reason Code" and number of providers through elastic search.
+
+
 
 
 ## Architecture
