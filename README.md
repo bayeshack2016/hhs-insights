@@ -34,3 +34,7 @@
    - Plot a heatmap based on raw counts of providers across states.
  - Provider distribution by zip
    - Plot a heatmap based on raw counts of providers across zip code boundaries.
+
+### Datasets
+ - NPPES provider data from cms.gov. [URL](https://www.cms.gov/Regulations-and-Guidance/HIPAA-Administrative-Simplification/NationalProvIdentStand/DataDissemination.html)
+ - ~4.8 million providers data.
