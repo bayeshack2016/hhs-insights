@@ -1,0 +1,50 @@
+{ 
+	"result": {
+		"max_fraud_pct": 77,
+		"zip_codes":
+		[ 
+		{   
+			"zip_code": "07094", 
+			"fraud_pct": 34, 
+			"num_providers": 126, 
+			"pct_accepting_patients": 30 
+		},
+		{   
+			"zip_code": "94030", 
+			"fraud_pct": 14, 
+			"num_providers": 442, 
+			"pct_accepting_patients": 10 
+		},
+		{   
+			"zip_code": "94105", 
+			"fraud_pct": 1, 
+			"num_providers": 126, 
+			"pct_accepting_patients": 30 
+		},
+		{   
+			"zip_code": "01845", 
+			"fraud_pct": 77, 
+			"num_providers": 442, 
+			"pct_accepting_patients": 10 
+		},
+		{   
+			"zip_code": "07030", 
+			"fraud_pct": 34, 
+			"num_providers": 126, 
+			"pct_accepting_patients": 30 
+		},
+		{   
+			"zip_code": "02134", 
+			"fraud_pct": 14, 
+			"num_providers": 42, 
+			"pct_accepting_patients": 10 
+		},
+		{   
+			"zip_code": "10022", 
+			"fraud_pct": 4, 
+			"num_providers": 126, 
+			"pct_accepting_patients": 4 
+		}
+	]
+	}
+}

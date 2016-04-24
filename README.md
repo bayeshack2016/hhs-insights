@@ -1,2 +1,4 @@
 # hhs-insights
-#HHS 
+
+## Directory structure
+ - TBD 
