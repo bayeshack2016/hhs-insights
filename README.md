@@ -2,6 +2,10 @@
  TBD
 
 
+## Architecture
+ `Notebooks` ==> `API server(AWS)` ==> `ElasticSearch(AWS)` 
+
+
 ## Directory structure
 ```shell
 - jupyter/
@@ -13,8 +17,6 @@
  
  ```
 
-## Architecture
- `Notebooks` ==> `API server(AWS)` ==> `ElasticSearch(AWS)` 
  
 ### API Server
  - Endpoints
@@ -23,3 +25,12 @@
     - can optionally be filtered by speciality, eg `speciality=Diabetes`
   - GET /providers-by-zip
     - returns an aggregated report of providers grouped by Zip codes.
+
+
+### Interesting Notebooks
+ - Fraud occurences
+   - Plot a heatmap based on number of provider deactivations due to fraud.
+ - Provider distribution by state
+   - Plot a heatmap based on raw counts of providers across states.
+ - Provider distribution by zip
+   - Plot a heatmap based on raw counts of providers across zip code boundaries.
